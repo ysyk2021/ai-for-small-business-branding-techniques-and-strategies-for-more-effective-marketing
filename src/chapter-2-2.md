@@ -1,5 +1,4 @@
-Types of AI used for branding
-=====================================================================================
+
 
 Artificial Intelligence (AI) is becoming increasingly popular in marketing and branding as it offers a number of benefits for small businesses. In this chapter, we will explore the types of AI that can be used for small business branding.
 
