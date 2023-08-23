@@ -1,5 +1,4 @@
 
-
 Before implementing AI tools in small business branding efforts, it is important to assess your branding needs and goals to determine which AI tools will be most effective. In this chapter, we will discuss key considerations for assessing your branding needs and goals and how to choose the best AI tools to achieve them.
 
 Branding Needs

@@ -1,5 +1,4 @@
 
-
 Before implementing AI tools and technologies, small businesses need to evaluate the availability and quality of their data. In this chapter, we will discuss the importance of data in AI implementation, how to evaluate data availability and quality, and steps small businesses can take to improve their data.
 
 Importance of Data in AI Implementation

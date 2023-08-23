@@ -1,5 +1,4 @@
 
-
 While AI offers many benefits for small business branding, it's important to measure its impact to identify areas for improvement and refinement. In this chapter, we will explore some key metrics that small businesses can use to measure the impact of AI on their branding efforts.
 
 ## 1. Customer engagement
